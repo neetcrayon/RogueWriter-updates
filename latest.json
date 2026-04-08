@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1-alpha.1",
+  "notes": "Public alpha updater channel for RogueWriter desktop builds.",
+  "pub_date": "2026-04-08T14:36:20Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzlySDYybno1aG9PdGU4MEQwYTlRRnZ0NjBYZmtvbCtLakl2dVYvZEtJTFc4RDdBTC9xOE0zcTl5Y2h3V0FXcDQvdFVWY3ZHYkMvYy8vUE9ocUYySGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU4MDU5CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuMV94NjQtc2V0dXAuZXhlCkl3ODBKRFErRnZpeWJyUmgwZlZwUHJqYS9XVFRTRGd3RTJ0Z3l0cDRpY0JONW5aL0tPQ1JRaXZFY2ZUZElnQzVPYjVwb0twY1B6dTFqUG1JVTRTK0FRPT0K",
+      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.1/RogueWriter_0.1.1-alpha.1_x64-setup.exe"
+    }
+  }
+}
