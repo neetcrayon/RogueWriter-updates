@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-alpha.1",
-  "notes": "Public alpha updater channel for RogueWriter desktop builds.",
-  "pub_date": "2026-04-08T14:36:20Z",
+  "version": "0.1.1-alpha.2",
+  "notes": "Alpha.2 updater verification release using the public updates channel.",
+  "pub_date": "2026-04-08T14:47:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzBYek5EcWR1aTZVejFEN1NDL2U0cklLMzVISXRRaDBEbzdKNGtkODN5UlRPalUrOFdnR1dWNDBJOW5rVjUxQjJwcGw2MnB4ajNRUXIrQTBIblk5YVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU5MjAzCWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuMV94NjQtc2V0dXAuZXhlCktFZjFOOFVTZExaWmYvRVgzSjdERXhHelpBUXJmSXZYV3Mybzh1LzNQZzlncDN4TVY0UkRWR1hDRDgrY1ZlSnQveUU4WUE5eEppVXA4OEVONTlXT0JnPT0K",
-      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.1/RogueWriter_0.1.1-alpha.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzBZQXM4cW4welg5Z1E2bm4zZTdXSmJ5TEhabjVlcGRjU0sxclhuSTRyeHJRRWVKRGEvVUljZ2dBM2IrMC9UMVlZYkFML045cTJaWE5EYzRaOGhrZmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU5NjQ1CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuMl94NjQtc2V0dXAuZXhlCkFndzF6ZlBtUVg5NW5OKzFYbjUreUdRNjA4elgyTCs4VGtGekJhV0pKMmtWS3JEN1ppUVNBWStHejd3RFVrYllGVXFmT0RkYlhRbEh4TFdJQ0ViRENnPT0K",
+      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.2/RogueWriter_0.1.1-alpha.2_x64-setup.exe"
     }
   }
 }
