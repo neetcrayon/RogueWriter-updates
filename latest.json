@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-alpha.2",
-  "notes": "Alpha.2 updater verification release using the public updates channel.",
-  "pub_date": "2026-04-08T14:47:45Z",
+  "version": "0.1.1-alpha.3",
+  "notes": "Adds per-note export to Markdown and HTML, including desktop Save As support and aligned Markdown blocks exported as valid HTML wrappers.",
+  "pub_date": "2026-04-08T17:06:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzBZQXM4cW4welg5Z1E2bm4zZTdXSmJ5TEhabjVlcGRjU0sxclhuSTRyeHJRRWVKRGEvVUljZ2dBM2IrMC9UMVlZYkFML045cTJaWE5EYzRaOGhrZmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU5NjQ1CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuMl94NjQtc2V0dXAuZXhlCkFndzF6ZlBtUVg5NW5OKzFYbjUreUdRNjA4elgyTCs4VGtGekJhV0pKMmtWS3JEN1ppUVNBWStHejd3RFVrYllGVXFmT0RkYlhRbEh4TFdJQ0ViRENnPT0K",
-      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.2/RogueWriter_0.1.1-alpha.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzVDK0VwOHFTY2tSVXFkUkh6TmdDS3FERWd3cWx6S1BPRXFlM2UxTU91NFNwN0Nhb25hS3NlSFBORk1yNkxWL1JKZUdpZ1pwc054Z2M5Vm9RU2ZTUWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjY3OTU5CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuM194NjQtc2V0dXAuZXhlClk5c1daQVJlanNTS25OVTlES2xHek9GZ28rcXRyQk9ZZGNTc1g1clliT1F3U3V3RmI4c1g5MnRPbUhMbFgzWngvcFdqcTk4b21KM3F4Vm5KN1N3bEJRPT0K",
+      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.3/RogueWriter_0.1.1-alpha.3_x64-setup.exe"
     }
   }
 }
