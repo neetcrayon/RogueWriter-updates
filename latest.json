@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-alpha.4",
-  "notes": "This alpha refreshes core workspace polish: the new RogueWriter logo is now used across the app and desktop window icon, read mode joins focus mode for fullscreen reading, new projects start with starter folders and notes, and editor/file-browser behavior has been tightened around spellcheck, root actions, sorting, and punctuation.",
-  "pub_date": "2026-04-09T08:12:39Z",
+  "version": "0.1.1-alpha.5",
+  "notes": "Adds project and note task workflows, integrated pomodoro timing with alert settings, richer chapter metrics and heatmap updates, inline note images with managed assets and export support, and expanded alpha user manual and troubleshooting coverage.",
+  "pub_date": "2026-04-10T07:39:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzE0M3BlenQxU1V2VDhzU05DL0lXMnAvc3hWc0RiaHNJM2QvelFrMGJocXpDN3JVN1ltS2JuR2ppRmJ3bk9JTC85N2MzanhKOXd1R2dWMUdUMGhCVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzIyMzIzCWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuNF94NjQtc2V0dXAuZXhlClJRQ3M3M3Q2S2E0ZG9Nck9kZ0pIaGtQZ3o0WXZVNENGdlo4OG5xWHZKdzlCM1QzR281eWhBcjkrMk1HMXJJa3NrYko3VDUxelBMbFFrMFUybDh1QkRnPT0K",
-      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.4/RogueWriter_0.1.1-alpha.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzVhYUx5UmZZaTdWV3ZlM3d0UjNVdGpIcmZmMktZcTBFeVZCWGNxOEJaYjVHeW5HcVlNb2h5L2dPQWNSMG83b1FqYllOSjIyMnAxbHhzeVU2K0ZNaUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA2NzQ5CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuNV94NjQtc2V0dXAuZXhlCjVGUDlCYWM3R2tQVHYzRlVoOW9CU2RUZG9OdUxzWEo0TjN5OEhGQU9aVnRvMGVLVXBZMVdiQkVpU2h5aS93ZFNBK1lUTEpPbm1CQ3lQZGNiQUt4WkJ3PT0K",
+      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.5/RogueWriter_0.1.1-alpha.5_x64-setup.exe"
     }
   }
 }
