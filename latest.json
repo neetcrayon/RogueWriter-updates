@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1-alpha.5",
-  "notes": "Adds project and note task workflows, integrated pomodoro timing with alert settings, richer chapter metrics and heatmap updates, inline note images with managed assets and export support, and expanded alpha user manual and troubleshooting coverage.",
-  "pub_date": "2026-04-10T07:39:46Z",
+  "version": "0.1.1-alpha.6",
+  "notes": "Adds note import, persists editor and workspace tool-panel state, refines editor layout and writing workflow, stabilizes spellcheck with a toggle, and polishes version dialogs and task handling.",
+  "pub_date": "2026-04-16T17:25:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5ZzVhYUx5UmZZaTdWV3ZlM3d0UjNVdGpIcmZmMktZcTBFeVZCWGNxOEJaYjVHeW5HcVlNb2h5L2dPQWNSMG83b1FqYllOSjIyMnAxbHhzeVU2K0ZNaUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA2NzQ5CWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuNV94NjQtc2V0dXAuZXhlCjVGUDlCYWM3R2tQVHYzRlVoOW9CU2RUZG9OdUxzWEo0TjN5OEhGQU9aVnRvMGVLVXBZMVdiQkVpU2h5aS93ZFNBK1lUTEpPbm1CQ3lQZGNiQUt4WkJ3PT0K",
-      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.5/RogueWriter_0.1.1-alpha.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQlR6N05OUit5Z3o1WEFTTS9jM0tDaE5ZMjhvRkV3a0lQa2o1dVE3cnhRNXFPMS9jcktzbE1wVFU2aDRZbHJoUXRuenFEM2JQUUd2TUdjd0Z1Y3NpSklKVXR3ZnNMREFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzYwMzExCWZpbGU6Um9ndWVXcml0ZXJfMC4xLjEtYWxwaGEuNl94NjQtc2V0dXAuZXhlCkxKa2lXNTI1eSttcEcwL3pRbkRvSFREV2JjQk1qQ3B5QThqeFdSSElyODZPalBHU3lMbnBva0c3S3ZvZUdqb2N2WGR2Miswa0xxZ3lRZTVrTkEyb0RRPT0K",
+      "url": "https://github.com/neetcrayon/RogueWriter-updates/releases/download/v0.1.1-alpha.6/RogueWriter_0.1.1-alpha.6_x64-setup.exe"
     }
   }
 }
